@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50600d37.chunk.css",
+    "main.js": "/static/js/main.0eaff067.chunk.js",
+    "main.js.map": "/static/js/main.0eaff067.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b991244d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b991244d.js.map",
+    "static/js/2.c4d0306d.chunk.js": "/static/js/2.c4d0306d.chunk.js",
+    "static/js/2.c4d0306d.chunk.js.map": "/static/js/2.c4d0306d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f769f07da14c60e663537388da23c8af.js": "/precache-manifest.f769f07da14c60e663537388da23c8af.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.50600d37.chunk.css.map": "/static/css/main.50600d37.chunk.css.map",
+    "static/js/2.c4d0306d.chunk.js.LICENSE.txt": "/static/js/2.c4d0306d.chunk.js.LICENSE.txt",
+    "static/media/Public-health-icon.svg": "/static/media/Public-health-icon.bbe84949.svg",
+    "static/media/producBuoy.svg": "/static/media/producBuoy.90975a11.svg",
+    "static/media/productCurvyLines.png": "/static/media/productCurvyLines.3a1df6c1.png",
+    "static/media/productHowItWorks1.svg": "/static/media/productHowItWorks1.a818d472.svg",
+    "static/media/productHowItWorks2.svg": "/static/media/productHowItWorks2.cef48c25.svg",
+    "static/media/productHowItWorks3.svg": "/static/media/productHowItWorks3.0fbdd28f.svg",
+    "static/media/productValues2.svg": "/static/media/productValues2.07a7534e.svg",
+    "static/media/productValues3.svg": "/static/media/productValues3.80819a7b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b991244d.js",
+    "static/js/2.c4d0306d.chunk.js",
+    "static/css/main.50600d37.chunk.css",
+    "static/js/main.0eaff067.chunk.js"
+  ]
+}

@@ -1,0 +1,47 @@
+.reminders {
+    border: 1px solid black;
+    width: 30%;
+    background: rgba(248, 158, 210, 0.3) /* Green background with 30% opacity */
+}
+
+.reminders__container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    /* padding: 20px; */
+}
+
+.reminders__btn {
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    background-color: black;
+}
+
+table,
+td {
+    border: 1px solid #333;
+    width: device-width;
+    
+}
+
+.col {
+    
+    width: 100%;
+    padding: 15px;
+  }
+
+.scrollme {
+    overflow-x: auto;
+}
+
+
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}

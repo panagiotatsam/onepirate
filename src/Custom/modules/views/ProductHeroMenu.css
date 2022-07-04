@@ -1,0 +1,11 @@
+.button__bg { 
+    background-color: #ff3366;
+}
+
+
+@media screen and (max-width: 576px){
+    .user-info {
+        display: none
+        
+    }
+}
