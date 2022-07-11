@@ -107,12 +107,13 @@ function AppAppBar(props) {
                 color="inherit"
               >
                 <div className="user-info">
-                  <div>{firstName}</div>
-                  <div>{user?.email}</div>
+                  <div>Welcome {firstName}</div>
+                  <div>Logged in as {user?.email}</div>
                 </div>
 
                 <AccountCircle />
               </IconButton>
+
               <Menu
                 id="menu-appbar"
                 anchorEl={anchorEl}

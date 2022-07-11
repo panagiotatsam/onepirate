@@ -46,7 +46,7 @@ function SignIn() {
             </Typography>
             <Typography variant="body2" align="center">
               <div>
-                <Link to="/SignUp"> Not a member yet? </Link>
+                <Link to="/sign-up"> Not a member yet? </Link>
               </div>
             </Typography>
             <br />
